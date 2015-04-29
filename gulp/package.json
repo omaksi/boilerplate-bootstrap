@@ -1,0 +1,11 @@
+{
+  "name": "gulp-sass-watcher",
+  "description": "gulp-sass-watcher",
+  "version": "0.0.1",
+  "devDependencies": {},
+  "dependencies": {
+    "cli-color": "^1.0.0",
+    "gulp": "^3.8.11",
+    "gulp-sass": "^1.3.3"
+  }
+}
